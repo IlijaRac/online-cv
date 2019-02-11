@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Ilija Rac
     tagline: Student
-    avatar: IMPG.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: racilija33@gmail.com
