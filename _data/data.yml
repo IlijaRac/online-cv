@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: racilija33@gmail.com
     phone: 061 205 8438
-    website: ilijarac.github.io #do not add http://
+    website: ilijarac.github.io/online-cv/ #do not add http://
     linkedin: 
     github: IlijaRac
     gitlab:
@@ -51,7 +51,7 @@ career-profile:
 education:
     - degree: Elektro-tehnicar racunara
       university: STS "Mihajlo Pupin" Kula
-      time: 2015 - present
+      time: 2015 - 2019
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -96,7 +96,7 @@ skills:
         level: 0%
 
       - name: HTML5 & CSS
-        level: 25%
+        level: 20%
 
       - name: Photoshop
         level: 15%
